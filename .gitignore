@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*~
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Specific to your project's generated files
+console_chatbot/zoho_refresh_token.txt
+config/tenants.json

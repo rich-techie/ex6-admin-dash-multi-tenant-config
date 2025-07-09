@@ -1,0 +1,12 @@
+ollama
+google-generativeai
+python-dotenv
+beautifulsoup4
+requests
+langchain-community
+langchain-text-splitters
+faiss-cpu
+Flask
+gunicorn
+# No longer needed directly in requirements.txt as it's now part of zoho_auth_manager
+# requests-oauthlib
